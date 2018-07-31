@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp4">4dp</dimen>
+    <dimen name="dp19">19dp</dimen>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="line_off" >0.5dp</dimen>
+</resources>
