@@ -53,6 +53,7 @@ public class AccountListActivity extends ActivityCommon<AccountListPresenter, Ma
     //用来区分是添加还是修改，默认是添加
     public boolean isAdd = true;
 
+
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
